@@ -1,0 +1,16 @@
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.exe
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.deps.json
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.runtimeconfig.json
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.runtimeconfig.dev.json
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.dll
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\ref\Quest.dll
+C:\Users\Seaborn\workspace\cSharp\Quest\bin\Debug\net5.0\Quest.pdb
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.csproj.AssemblyReference.cache
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.AssemblyInfoInputs.cache
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.AssemblyInfo.cs
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.csproj.CoreCompileInputs.cache
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.dll
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\ref\Quest.dll
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.pdb
+C:\Users\Seaborn\workspace\cSharp\Quest\obj\Debug\net5.0\Quest.genruntimeconfig.cache
